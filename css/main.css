@@ -99,6 +99,7 @@ textarea {
 
   .learning-text-container {
     max-width: 50rem;
+    margin: 0 auto;
   }
 
   .learning-text {
@@ -106,6 +107,20 @@ textarea {
     font-family: Cardo, Georgia, serif;
   }
 
+  span .date:hover {
+    background-color: #01FF70;
+    color: #000;
+  }
+
+  span .independent-clause:hover {
+    background-color: #7FDBFF;
+    color: #000;
+  }
+
+  span .coord-conjunction:hover {
+    background-color: #F012BE;
+    color: #000;
+  }
 
 
 
