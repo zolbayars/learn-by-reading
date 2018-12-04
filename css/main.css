@@ -110,16 +110,25 @@ textarea {
   span .date:hover {
     background-color: #01FF70;
     color: #000;
+    cursor: pointer;
   }
 
   span .independent-clause:hover {
     background-color: #7FDBFF;
     color: #000;
+    cursor: pointer;
   }
 
   span .coord-conjunction:hover {
     background-color: #F012BE;
     color: #000;
+    cursor: pointer;
+  }
+
+  span .predicate:hover {
+    background-color: #FFDC00;
+    color: #000;
+    cursor: pointer;
   }
 
 
